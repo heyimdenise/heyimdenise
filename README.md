@@ -1,10 +1,22 @@
-<h1 align="center">💫 Hey, I'm Denise! </h1>
+<table>
+<tr>
+<td>
 
-<p align="center">
-💻 Computer Science @ SDSU <br>
-🤖 AI / Machine Learning / Robotics <br>
-🧠 ISA for ML & Robotics
-</p>
+### ⭐ Hey, I'm Denise!
+
+👩‍💻 Computer Science @ SDSU  
+🤖 Interested in AI / Machine Learning  
+🧠 ISA for ML & Robotics  
+
+</td>
+
+<td>
+
+<img src="[YOUR_GIF_LINK](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY1OG1oMWszOG91ZzAwMXhjZmxmb2ZkbTFnM2xoYWQ3ZWFvNzhxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif)" width="220">
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 

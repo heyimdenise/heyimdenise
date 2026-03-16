@@ -13,15 +13,15 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=r,git,linux,arduino,flask" />
+<img src="https://skillicons.dev/icons?i=r,git,linux,arduino" />
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=heyimdenise&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=heyimdenise&theme=rose_pine"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=heyimdenise&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=heyimdenise&show_icons=true&theme=rose_pine"/>
 </p>

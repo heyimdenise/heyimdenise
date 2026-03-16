@@ -9,6 +9,8 @@
 
 </p>
 
+<br clear="right"/>
+
 ## 🛠️ Tech Stack
 
 <p align="center">

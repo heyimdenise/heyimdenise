@@ -1,11 +1,27 @@
-# 💫 Hey, I'm Denise!
+<h1 align="center">✨ Hi, I'm Denise ✨</h1>
 
-👩‍💻 Computer Science @ SDSU
-🤖 Interested in AI/ML
-🍎 ISA for ML & Robotics
+<p align="center">
+💻 Computer Science @ SDSU <br>
+🤖 AI / Machine Learning / Robotics <br>
+🧠 ISA for ML & Robotics
+</p>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,arduino,git,linux,docker,react" />
+</p>
 
 ## 📊 GitHub Stats
 
-![Denise's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=heyimdenise&show_icons=true&theme=tokyonight"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyimdenise&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=heyimdenise&theme=tokyonight"/>
+</p>

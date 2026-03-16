@@ -1,12 +1,22 @@
+<table>
+<tr>
+<td>
+
 ### ⭐ Hey, I'm Denise!
 
 👩‍💻 Computer Science @ SDSU  
-🤖 AI / Machine Learning  
+🤖 Interested in AI / Machine Learning  
 🧠 ISA for ML & Robotics  
 
-<p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY1OG1oMWszOG91ZzAwMXhjZmxmb2ZkbTFnM2xoYWQ3ZWFvNzhxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="250">
-</p>
+</td>
+
+<td>
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY1OG1oMWszOG91ZzAwMXhjZmxmb2ZkbTFnM2xoYWQ3ZWFvNzhxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="220">
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 

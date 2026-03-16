@@ -19,9 +19,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=heyimdenise&theme=rose_pine"/>
+<img src="https://streak-stats.demolab.com?user=heyimdenise&theme=panda"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=heyimdenise&show_icons=true&theme=rose_pine"/>
+<img src="https://github-readme-stats.vercel.app/api?username=heyimdenise&show_icons=true&theme=panda"/>
 </p>

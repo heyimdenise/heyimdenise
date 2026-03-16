@@ -3,9 +3,11 @@
 <p>
 <img align="right" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY1OG1oMWszOG91ZzAwMXhjZmxmb2ZkbTFnM2xoYWQ3ZWFvNzhxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif">
 
-👩‍💻 **CS @ SDSU**  
-🤖 **AI / Machine Learning • SWE**  
-🧠 **ISA — ML & Robotics**
+<br><br>
+
+👩‍💻 **Studying CS @ SDSU**  
+🤖 **Interested in AI/ML & SWE**  
+🧠 **Working as an ISA for ML & Robotics**
 
 </p>
 

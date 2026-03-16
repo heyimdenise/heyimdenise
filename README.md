@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm Denise ✨</h1>
+<h1 align="center">💫 Hey, I'm Denise! </h1>
 
 <p align="center">
 💻 Computer Science @ SDSU <br>
@@ -9,13 +9,17 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,arduino,git,linux,docker,react" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,html,pytorch,tensorflow,sklearn" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=numpy,pandas,r,git,linux,arduino,flask" />
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=heyimdenise&show_icons=true&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=heyimdenise&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -23,5 +27,5 @@
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=heyimdenise&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=heyimdenise&show_icons=true&theme=tokyonight"/>
 </p>

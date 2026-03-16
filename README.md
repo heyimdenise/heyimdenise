@@ -1,4 +1,4 @@
-<h3 align="center">⭐ Hey, I'm Denise!</h3>
+## ⭐ Hey, I'm Denise!
 
 <p align="center">
 👩‍💻 CS @ SDSU <br>

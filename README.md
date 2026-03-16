@@ -16,11 +16,11 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,html,pytorch,tensorflow,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,html,pytorch,tensorflow,sklearn,mysql" />
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=r,git,linux,arduino" />
+<img src="https://skillicons.dev/icons?i=r,vscode,cmake,git,linux,arduino" />
 </p>
 
 ## 📊 GitHub Stats

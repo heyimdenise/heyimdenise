@@ -5,9 +5,9 @@
 
 <br>
 
-👩‍💻 CS @ SDSU  
-🤖 AI / Machine Learning • SWE  
-🧠 ISA — ML & Robotics  
+👩‍💻 Studying CS @ SDSU  
+🤖 Interested in AI / ML & SWE 
+🧠 Teaching as an ISA for ML & Robotics  
 
 </p>
 

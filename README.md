@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=heyimdenise&theme=dracula"/>
+<img src="https://streak-stats.demolab.com?user=heyimdenise&theme=rose"/>
 </p>
 
 <p align="center">

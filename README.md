@@ -26,7 +26,3 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=heyimdenise&theme=rose"/>
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=heyimdenise&show_icons=true&theme=rose_pine"/>
-</p>

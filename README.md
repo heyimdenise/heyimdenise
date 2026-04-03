@@ -24,5 +24,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=heyimdenise&theme=rose&type=weekly" />
+  <img src="https://streak-stats.demolab.com?user=heyimdenise&theme=rose&mode=weekly" />
 </p>

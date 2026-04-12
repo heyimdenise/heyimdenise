@@ -5,7 +5,7 @@
   
 **👩‍💻 Studying CS @ SDSU** <br>
 **🤖 Interested in AI / ML & SWE** <br>
-**🧠 Currently an ISA for ML & Robotics** <br>
+**🧠 ISA for ML & Robotics** <br>
 
 </p>
 
